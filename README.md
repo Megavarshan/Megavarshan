@@ -1,8 +1,8 @@
-### 🔬 About Me  
-- 🎓 I’m an AI/ML enthusiast working on deep learning, healthcare and open innovation projects.
-- 🔭 Currently working on AI-based Spatial Information Systems in Disaster Management
-- 🌱 Learning more about federated learning, AI ethics, and advanced neural networks.
-- 💡 Passionate about sustainable development & technological innovations.
+### 🔬 About Me ⭐
+🚀 I’m an AI/ML enthusiast working on deep learning, healthcare and open innovation projects.
+🔭 Currently working on AI-based Spatial Information Systems in Disaster Management
+🌱 Learning more about federated learning, AI ethics, and advanced neural networks.
+💡 Passionate about sustainable development & technological innovations.
 
 #### **Programming & AI**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
