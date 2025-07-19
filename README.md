@@ -65,7 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Megavarshan&show_icons=true&theme=radical&hide_border=true" alt="Megavarshan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megavarshan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://leetcode-stats-theta.vercel.app/?username=Megavarshan&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Megavarshan?theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
