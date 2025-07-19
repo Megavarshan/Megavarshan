@@ -3,6 +3,8 @@
   <h3>🤖 AI/ML Engineer | Building intelligent systems that learn and adapt.</h3>
 </div>
 
+---
+
 ### ⭐ About Me
 
 🚀 I’m an **AI/ML enthusiast** working on deep learning, healthcare, and open innovation projects. I'm passionate about translating complex challenges into elegant, efficient, and user-friendly solutions.
@@ -19,6 +21,9 @@
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI" /><br>AI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ml" width="48" height="48" alt="ML" /><br>ML
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
@@ -54,11 +59,13 @@
 
 ---
 
-### 🔥 My GitHub Stats
+### 🔥 My GitHub Stats & LeetCode Progress
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Megavarshan&show_icons=true&theme=radical&hide_border=true" alt="Megavarshan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megavarshan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://leetcode-stats-theta.vercel.app/?username=Megavarshan&theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -71,4 +78,6 @@
   </a>
 </p>
 
+<p align="center">
 🔍 *“Bridging AI with real-world impact through research, innovation, and technology.”* ✨
+</p>
