@@ -23,9 +23,6 @@
       <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI" /><br>AI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ml" width="48" height="48" alt="ML" /><br>ML
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
     </td>
     <td align="center" width="96">
@@ -47,7 +44,6 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++
     </td>
@@ -59,13 +55,11 @@
 
 ---
 
-### 🔥 My GitHub Stats & LeetCode Progress
+### 🔥 My GitHub Stats & Problem Solving Progress
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Megavarshan&show_icons=true&theme=radical&hide_border=true" alt="Megavarshan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megavarshan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://leetcard.jacoblin.cool/Megavarshan?theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -75,6 +69,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/megavarshan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/Megavarshan/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="LeetCode">
   </a>
 </p>
 
