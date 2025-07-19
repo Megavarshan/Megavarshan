@@ -3,8 +3,6 @@
   <h3>🤖 AI/ML Engineer | Building intelligent systems that learn and adapt.</h3>
 </div>
 
----
-
 ### ⭐ About Me
 
 🚀 I’m an **AI/ML enthusiast** working on deep learning, healthcare, and open innovation projects. I'm passionate about translating complex challenges into elegant, efficient, and user-friendly solutions.
@@ -72,7 +70,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
 
 🔍 *“Bridging AI with real-world impact through research, innovation, and technology.”* ✨
