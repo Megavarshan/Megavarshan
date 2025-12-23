@@ -1,19 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MEGAVARSHAN%20A&fontSize=48&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MEGA%20VARSHAN&fontSize=48&fontAlignY=40&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=980&lines=AI+Research+Engineer+%7C+Cloud+%26+Data+Systems;Machine+Learning+%7C+Scalable+AI+Infrastructure;Disaster+Intelligence+%7C+Geospatial+AI;Engineering+Intelligence+for+Real-World+Impact" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Megavarshan&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/Megavarshan?label=Followers&style=flat" />
-<img src="https://img.shields.io/github/stars/Megavarshan?label=Stars&style=flat" />
-
 <br/><br/>
 
-<strong>AI Research Engineer</strong> with deep expertise across <strong>Machine Learning, Cloud Computing, and Data Systems</strong>, focused on designing <strong>scalable, reliable, and impact-oriented intelligent platforms</strong>.  
-I engineer complete AI systems — spanning <strong>large-scale data ingestion, cloud-native pipelines, distributed training, deployment, and monitoring</strong> — with strong emphasis on <strong>sustainability, robustness, and real-world usability</strong>.
+AI Research Engineer specializing in the design and deployment of large-scale intelligent systems across Machine Learning, Cloud Computing, and Data Engineering. I focus on building robust, scalable, and production-ready AI platforms that operate reliably under real-world constraints.
+
+I work across the complete system lifecycle — from high-volume data ingestion and cloud-native data pipelines to distributed model training, deployment, monitoring, and optimization — with a strong emphasis on sustainability, reliability, and long-term societal impact.
 
 <br/><br/>
 
@@ -21,7 +16,7 @@ I engineer complete AI systems — spanning <strong>large-scale data ingestion, 
 
 <br/><br/>
 
-<em>I don’t build isolated models — I engineer production-grade intelligence.</em>
+<em>I approach AI as an engineering discipline rather than a modeling exercise — prioritizing system design, data integrity, cloud scalability, and deployment readiness to ensure intelligence delivers measurable, real-world value.</em>
 
 <br/><br/>
 
@@ -44,27 +39,13 @@ AWS, GCP, scalable compute, cloud storage, containerized ML, deployment pipeline
 
 <br/><br/>
 
-<strong>Data & Systems Engineering</strong><br/>
+<strong>Data Engineering & Systems</strong><br/>
 ETL pipelines, feature engineering, analytics, data-driven decision systems  
 
 <br/><br/>
 
 <strong>Programming & Tooling</strong><br/>
 Python, C++, Java, Git, Linux, Docker  
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Megavarshan&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Megavarshan&theme=radical&hide_border=true" />
-
-<br/><br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megavarshan&layout=compact&theme=radical&hide_border=true" />
-
-<br/><br/>
-
-<strong>Technology should scale intelligence, resilience, and inclusion.</strong><br/>
-My work prioritizes explainable AI, cloud scalability, data reliability, energy efficiency, and deployment-ready engineering — ensuring long-term societal impact beyond benchmarks.
 
 <br/><br/>
 
