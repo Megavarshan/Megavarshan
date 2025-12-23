@@ -55,7 +55,7 @@
 📊 **Data Engineering & Analytics**
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" height="42" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Tableau-Analytics-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42"/>
 &nbsp;&nbsp;&nbsp;
