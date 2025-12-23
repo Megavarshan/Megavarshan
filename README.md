@@ -54,7 +54,9 @@
 
 📊 **Data Engineering & Analytics**  
 <br/>
-<img src="https://skillicons.dev/icons?i=powerbi,postgres,mysql&theme=dark" />
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 
 </td>
 
