@@ -55,7 +55,7 @@
 📊 **Data Engineering & Analytics**
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="42" alt="Apache Airflow"/>
+<img src="https://cdn.simpleicons.org/tableau/E97627" height="42" alt="Tableau"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42"/>
 &nbsp;&nbsp;&nbsp;
