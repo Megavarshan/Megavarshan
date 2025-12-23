@@ -50,16 +50,16 @@
 
 </td>
 
-<td align="center" width="220" style="background-color:#0d1117;">
+<td align="center" width="260" style="background-color:#0d1117; padding: 16px;">
 
-📊 **Data Engineering & Analytics**  
+📊 **Data Engineering & Analytics**
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="42" alt="Power BI" />
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="42" alt="Power BI"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="42" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="42"/>
 
 </td>
 
