@@ -52,9 +52,9 @@
 
 <td align="center" width="220" style="background-color:#0d1117;">
 
-📊 **Data Engineering**  
+📊 **Data Engineering & Analytics**  
 <br/>
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=powerbi,postgres,mysql&theme=dark" />
 
 </td>
 
@@ -69,7 +69,6 @@
 </table>
 
 </div>
-
 
 <br/>
 
