@@ -53,10 +53,13 @@
 <td align="center" width="220" style="background-color:#0d1117;">
 
 📊 **Data Engineering & Analytics**  
-<br/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+<br/><br/>
+
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="42" alt="Power BI" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="42" />
 
 </td>
 
