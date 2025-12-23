@@ -55,8 +55,8 @@
 📊 **Data Engineering & Analytics**
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Tableau-Analytics-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28"/>
-&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL-Data%20Engineering-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28"/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="42"/>
