@@ -12,18 +12,64 @@
 <tr>
 <td width="900">
 
-<strong>AI Research Engineer</strong> specializing in the design and deployment of <strong>large-scale intelligent systems</strong> across Machine Learning, Cloud Computing, and Data Engineering.  
-I focus on building <strong>robust, scalable, and production-ready AI platforms</strong> that operate reliably under real-world constraints.
+### 🚀 What I Do
 
-<br/><br/>
-
-My work spans the <strong>complete system lifecycle</strong> — from high-volume data ingestion and cloud-native pipelines to distributed model training, deployment, monitoring, and optimization — with a strong emphasis on <strong>sustainability, reliability, and long-term societal impact</strong>.
+- 🧠 **AI Research Engineer** focused on designing and deploying **large-scale intelligent systems**
+- ☁️ Build **robust, scalable, production-ready AI platforms** across ML, Cloud, and Data Engineering
+- 🔄 Work across the **entire AI system lifecycle** — from data ingestion to deployment and monitoring
+- 🌱 Emphasize **sustainability, reliability, and long-term societal impact**
+- 🏗️ Treat AI as an **engineering discipline**, not just a modeling task
 
 </td>
 </tr>
 </table>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Tech Stack & Tools
+
+<table>
+<tr>
+<td align="center" width="220" style="background-color:#0d1117;">
+
+🧠 **AI / Machine Learning**  
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+
+</td>
+
+<td align="center" width="220" style="background-color:#0d1117;">
+
+☁️ **Cloud & MLOps**  
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,firebase&theme=dark" />
+
+</td>
+
+<td align="center" width="220" style="background-color:#0d1117;">
+
+📊 **Data Engineering**  
+<br/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql&theme=dark" />
+
+</td>
+
+<td align="center" width="220" style="background-color:#0d1117;">
+
+🧩 **Programming & Tools**  
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,git,linux&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 <br/>
 
