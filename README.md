@@ -79,6 +79,8 @@
 
 <div align="center">
 
+### ✨ Expertise
+
 <table>
 <tr>
 <td align="center" width="220">
@@ -95,8 +97,8 @@
 </td>
 <td align="center" width="220">
 
-📊  
-<strong>Data Engineering<br/>& Analytics</strong>
+🧬  
+<strong>Healthcare AI<br/>& Medical Intelligence</strong>
 
 </td>
 <td align="center" width="220">
