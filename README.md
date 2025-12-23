@@ -55,7 +55,7 @@
 📊 **Data Engineering & Analytics**
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="42" alt="Power BI"/>
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="42" alt="Apache Airflow"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42"/>
 &nbsp;&nbsp;&nbsp;
